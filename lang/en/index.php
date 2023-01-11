@@ -1,0 +1,84 @@
+<?php
+return [
+    //navbar start here links
+
+    'home'=>'Home',
+    'git in touch'=>'Git In TOuch',
+    'press kit'=>'Press Kit',
+    'media'=>'Media',
+    //WHY PERFECT???? section titles
+    'WHY PERFECT'=>'WHY PERFECT',
+    'PROFESSIONAL CADRES title'=> 'PROFESSIONAL CADRES',
+    'TO ALL BUDGETS title'=>'TO ALL BUDGETS',
+    'HEALTH AND SAFETY title'=>'HEALTH AND SAFETY',
+    'TARGETING THE AUDIENCE title'=>'TARGETING THE AUDIENCE',
+    //why perefect section content start here
+    'PROFESSIONAL CADRES content'=>'Dealing with the best technical and professional cadres in the Perfect Woman team that have great previous experiences.',
+    'TO ALL BUDGETS content' => 'Offering competitive prices and marketing plans to suit all budgets.',
+    'HEALTH AND SAFETY content'=>'Compliance with general laws for the health and safety of all employees before the attendee in the events’ sites, in addition to the presence of a paramedic during all time of the events’ preparation and celebration for keeping general safety',
+    'TARGETING THE AUDIENCE content' =>'Conducting a detailed feasibility study to know more about the: class, age, taste, and the purpose of the events’ attendees, thus targeting the largest possible number of the targeted audience and attracting them in an easier way.',
+    //HOW TO BE PERFECT? start here 
+    'HOW TO BE PERFECT'=>'HOW TO BE PERFECT?',
+    //titiles
+    'LOYALTY title'=>'LOYALTY:',
+    'PRIVACY title'=>'PRIVACY:',
+    'CREATIVE THINKING title'=>'CREATIVE THINKING:',
+    'LOYALTY content'=>'Honesty, professionalism, and teamwork’s good spirit are the top priorities of Perfect Women for events company.',
+    'PRIVACY content' =>'Commitment to keep confidentiality in all details related to our valued customers’ activities, data, and information.',
+    'CREATIVE content' =>'working on creating new ideas consistently to make your product name and brand is always characterized by uniqueness in the market',
+    //OUR SERVICES start here 
+    'OUR SERVICES' =>'OUR SERVICES',
+    'OUR SERVICES intro'=>'Perfect Women for events’ teamwork is specialized by the great experience, professional management skills, and creativity that will obviously connect the name of your organization with consumers’ and customers’ minds by providing the best organizational services related to exhibitions, conferences, seminars, and events',
+    //ourservices content blogs titile start here
+    'AUDIO & VISUAL RENTAL SERVICES title'=>'AUDIO & VISUAL RENTAL SERVICES' ,
+    'PLASMA SCREEN RENTAL SERVICES title'=>'PLASMA SCREEN RENTAL SERVICES',
+    'ENTERTAINMENT EVENTS title'=>'ENTERTAINMENT EVENTS',
+    'CONFERENCES, SEMINARS, AND MEETINGS titile'=>'CONFERENCES, SEMINARS, AND MEETINGS',
+    'EXHIBITION ORGANIZATION title'=>'EXHIBITION ORGANIZATION',
+    'ARABIC TENTS RENTAL SERVICES title'=>'ARABIC TENTS RENTAL SERVICES',
+    'FLOWER ARRANGEMENT AND DECORATION title'=>'FLOWER ARRANGEMENT AND DECORATION',
+    'KIDS’ ACTIVITIES & GAMES EVENTS’ PREPARATION title'=>'KIDS’ ACTIVITIES & GAMES EVENTS’ PREPARATION',
+    'HOLDING VIP PARTIES title'=>'HOLDING VIP PARTIES',
+    'TEAM BUILDING & DOING ACTIVITY title'=> 'TEAM BUILDING & DOING ACTIVITY',
+    'CATERING title'=>'CATERING',
+    'MUSIC PRODUCTION title'=>'MUSIC PRODUCTION',
+    'VIDEOGRAPHY & PHOTOGRAPHY title'=>'VIDEOGRAPHY & PHOTOGRAPHY',
+    'EVENT EQUIPMENT RENTAL & INSTALLATION title'=>'EVENT EQUIPMENT RENTAL & INSTALLATION',
+    'STAGE SET UP & BACKLINE PREPARATION title'=>'STAGE SET UP & BACKLINE PREPARATION',
+    'PERSONNEL & STAFF MANAGEMENT title'=>'PERSONNEL & STAFF MANAGEMENT',
+    'PERFORMANCE ARTISTS RENTALS title'=>'PERFORMANCE ARTISTS RENTALS',
+    'CULTURE EVENTS AND FESTIVALS title'=>'CULTURE EVENTS AND FESTIVALS',
+    'FASHION SHOWS title'=>'FASHION SHOWS',
+    'SCHOOLS’ & COLLEGES’ EVENTS title'=>'SCHOOLS’ & COLLEGES’ EVENTS',
+    'CORPORATE & BUSINESS EVENTS title'=>'CORPORATE & BUSINESS EVENTS',
+    'PRODUCT LAUNCHING title'=>'PRODUCT LAUNCHING',
+    //OUR SERVICE CONTENT MAIN START HERE 
+    'AUDIO & VISUAL RENTAL SERVICES'=> 'with perfect women for events you will get many specialized services such as: renting cameras, lenses, screens, and studios for shooting commercials and products. Building exhibition stands and interior equipment for halls, providing all communication and information services, designing and printing billboards and guides. Supplying salon lighting and sound systems for conferences and parties, offering simultaneous translation units, and electronic voting units.',
+    'PLASMA SCREEN RENTAL SERVICES'=>'all types and sizes of touch screens, LED, LCD, Plasma, projectors for data show, and laptops are all available for rent at competitive prices by perfect women for events.',
+    'ENTERTAINMENT EVENTS'=>'Perfect Woman for events takes into account the social level of attendance, budget, location, and date of the event regarding its occasion before carrying out the process of planning, by talking with our valued customers, knowing their visions, and drawing a complete picture of the events, including designing visual identities, printing invitations, managing communication with sponsors and participants, reserving halls, choosing decoration, designing platforms and suites. And digital-marketing of the interactive event through social media platforms, radio and television, and even inviting well-known personalities to attend and participate in related events. This is in addition to making new product launch campaigns.',
+    'CONFERENCES, SEMINARS, AND MEETINGS'=>'perfect women for events uses the latest technological equipment to set up exhibition spaces, creates special platforms, provides the finest audiovisual systems, lighting, display screens, and promotional materials for indoor and outdoor signs of conferences and small seminars. it also arranges all the details related to the conference site, the content of the programs presented, technical support, communication channels, social programs, preparation, and coordination of time schedules.',
+    'EXHIBITION ORGANIZATION'=>'Perfect Women will organize, plan and coordinate an exhibition/exhibitions suitable for the event that you are planning to hold, whether it was a governmental or a private one, starting with the initial conceptualization, budgeting, preparing reports, setting up the operational plan going through marketing, development, opening and doing all the follow-up work till the end of the exhibition to ensure the progress of work matched the desired expectations by our Dear Customers.',
+    'ARABIC TENTS RENTAL SERVICES'=>'Perfect Women for Events is distinguished by the furnishing of hotels, embassies, clubs, universities, and even the Presidency of the Republic with the finest types, shapes, and raw materials of Arabian tents that suit the modernity of any occasion, party or consolation required to be prepared. In addition to providing all services for installing, dismantling tents, and supervising their establishment throughout the exhibition period and designing luxury wedding tents as desired by the newlyweds.',
+    'FLOWER ARRANGEMENT AND DECORATION'=>'Perfect Women for events will provide you with modern decorations that will add a special spirit and glamourous character to the place, starting from choosing the lighting, the predominant color of the event plaza, and dining utensils, to table linens, in addition to coordinating of natural and plastic flower bouquets for the entrances and exits of the meeting rooms, conferences, exhibitions, seminars, and parties.',
+    'KIDS’ ACTIVITIES & GAMES EVENTS’ PREPARATION'=>'Perfect Women for events knows well the importance of doing activities to any the child, so, it prepares events that are made especially for them such as birthdays and nursery parties, our company will provide kids and children with fancy clothes according to each occasion and offers funny clowns shows, it also provides well-prepared programs by education and nutrition specialists that are working with Perfect Women for events for a long time. Some activities examples are; preparing food by themselves, teaching them some etiquette, such as making sure to wash hands before and after eating, they can be involved in making some baked goods such as pizza or cakes while wearing a cooking apron, and keeping their hair away from food, to keep their hygiene, playing puzzle games or making shapes with clay. Their skills.',
+    'HOLDING VIP PARTIES'=>'With Perfect Women for events, you will not be responsible for choosing the appropriate dates, reserving places, nor supervising all the details required to reach a distinguished level of service by holding honorary parties or discussing / launching an artwork like a movie or a series. according to the chosen character that you want to set up the event specially for him/her, We will choose for you the covered or open space and the general taste of the décor, starting from choosing the shape of the chairs and even paying attention to the quality of sound and lighting commensurate with the number of attendees and their different classes, especially if the chosen character is a public figure or a VIP.',
+    'TEAM BUILDING & DOING ACTIVITY'=> 'Now, you can break the ice between your team members, make harmony and gain more profit rates with perfect women for events by doing activities that help them interact with each other and know their characters more by doing some activities or games, such as: Say your name upside down, tell 5 names of famous cities or countries that start by choosing a letter. Then gradually, they will understand the personality, and the work style, at that time the team leader can re-employ each member in the right place to save time, effort, and money, thus raising the name of his organization high among the competitors.',
+    'CATERING'=>'Perfect Women for Events will supply you with food, reserving hotels and travel tickets for workers in imaging units, taking responsibility for securing them, and taking care of all transportation expenses and organizing related to food bringing, while supervising all steps of preparation and packing properly to preserve the health of the attendees and their valued customers and ensure their safety. It also chooses the menus that suit the event (conference/seminar/festival/exhibition) regarding the different tastes, classes and ages.',
+    'MUSIC PRODUCTION'=>'Perfect Women for events composes, records and distributes music in addition to doing all kinds of mixing, and sound tracks that give a special character to any artwork.',
+    'VIDEOGRAPHY & PHOTOGRAPHY'=>'Perfect Women for Events coordinates with government agencies to get photography permissions, and manages photography and production units in general. It also helps you to find or create the best photography locations and set a suitable business budget. It can provide you with satellite broadcasting services, and covers all social events such as: weddings, conferences and exhibitions. And because we are always different, we have aerial photography service, and product photography with an attractive marketing vision by creative photographers who use latest technologies in video shooting equipment and photography to cover events at the highest level.',
+    'EVENT EQUIPMENT RENTAL & INSTALLATION'=>'Perfect Women for events has all the equipment and devices required to hold an event with the best quality such as screens, device stands, amplifiers, wires, cable ramps, hoists, electrical connectors, photo projectors, lasers, safety equipment, stage platforms, top and front loaders. It also offers their installations and maintenance work.',
+    'STAGE SET UP & BACKLINE PREPARATION'=>'perfect women for events will help you in managing, organizing, and supervising musical and theatrical performances, television programs, national celebrations, weddings, festivals, and conferences putting into consideration all the details related to the stage whether it was (mobile / home / school theaters), curtains (front, middle, and background), scenes, lighting mash, theater sound system, theater chairs, including seats for the elderly, VIPs and even children. Ceiling installation, wall insulation and carpeting, studios and interpretation units.',
+    'PERSONNEL & STAFF MANAGEMENT'=>'Perfect Women has a fleet of employees and workers in charge of event supplies. It performs all logistics, communications and information services. Our company also includes a technical team that is responsible for creating ideas for designing and printing internal and external billboards to guide the attendees to the exhibition venues easily. And for organizing the entertainment material and contracting with the sponsors, including dancing shows, sand painting, aerobics and magician performances. Preparing, equipping and installing electricity, water, gas and compressed air connections. Coordinate with exhibitors and promoters and supervise taking their full wages, book hotels and travel tickets for workers in imaging units, and take care of all transportations expenses and organize them the best way, in addition to carrying out all the shipping services and accounting production processes.',
+    'PERFORMANCE ARTISTS RENTALS'=>'Perfect Women will provide you with DJs, performers, dancers and suppliers and will be responsible for selecting and securing additional talents and actors, determining their salaries, and overseeing taking of their rights full. With Perfect Women, you will never have to worry about renting performers again, all you have to do is just to contract us.',
+    'CULTURE EVENTS AND FESTIVALS'=>'Perfect Women is the best choice for organizing cultural events and festivals because it is a company that operates on the widest ranges and has an endless network of relationships of entrepreneurs and owners of huge companies in the market, thus your cultural festival will witness the admiration of all attendees of high standing. We will prepare all the necessary equipment to establish a cultural event that will exceed our valued customers’ expectations positively, starting from choosing the place, time, public figures, till making certificates of appreciation and commemorative shields.',
+    'FASHION SHOWS'=>'With Perfect Women for events, unique designers will get an attractive promotional show for their clothing line. We will prepare integrated programs that includes: scheduling lighting changes with the fashion show, choosing music that suits the fashion taste, and of course, taking care of synchronization. We can also hire a professional makeup artist and make a good deal with a well- trusted beauty salon to equip the performers and mannequins. We also can assemble a specialized group to take care of the pre-and-cleaning tasks before and after the show. We will provide the design of the platform, print tickets and invitations, organize seats, choose the appropriate exhibition places and dates, after making brief analysis to the market.',
+    'SCHOOLS’ & COLLEGES’ EVENTS'=>'you can depend on perfect women for events for organizing graduation ceremonies for all types and sizes of schools and universities at the highest levels putting into consideration the field of the study in planning steps within acceptable budgets. We will choose for you the appropriate decorations, the food list, preparing entertainment activities for the event, designing and printing invitations or concert ticket, and doing all the photographing work whether it was only about taking photos or making a video, or even broad casting the whole event customized to our clients’ tastes according to the instructions of the school or the university which is holding the event.',
+    'CORPORATE & BUSINESS EVENTS'=>'perfect women for events is also interested in organizing and holding honoring ceremonies for special persons such as; celebrating qualified employees granting them by bounces for their great efforts, doing promotional parties for companies, inviting famous financiers and sponsors related to their business field, with our company you won’t be worry again about choosing the suitable date and place for holding your unique event whether it was inside or outside your company or organization.',
+    'PRODUCT LAUNCHING'=>'perfect women for events not only will help you to launch your products the best way in the suitable markets but it will also help doing all the marketing tasks related to your product’ branding, budgeting, …etc. and of course after finishing a well-study business plan including all product’s dimensions and details.',
+    // footer1 slowgan
+    'slowgan'=>'Fresh Ideas, Fresh Moments Giving Wings to your Stories.',
+
+    
+
+    
+];
